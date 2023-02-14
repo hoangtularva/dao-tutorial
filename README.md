@@ -1,25 +1,4 @@
-# This is my project title
-
-This sentence describes what my project is about summarized.
-
-## More Details
-
-I can explain how my project works here with different topics.
-
-## Upcoming
-
-- [x] I have done this activity
-- [ ] I plan to do this activity next
-
-## Contribution
-
-Feel free to contribute to this project to make it better!
-
-## License
-
-This project has an MIT License.
-
-## Made by love
+![image](https://user-images.githubusercontent.com/50492205/218793009-5b6a0199-2273-4da7-b91a-94b0b477d983.png)
 
 - [StarterTemplates](https://twitter.com/startertemp)
 - [LearnWeb3DAO](https://learnweb3.io)
